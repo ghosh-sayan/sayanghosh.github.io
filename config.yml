@@ -55,8 +55,8 @@ params:
           title: Sayan Ghosh
           subtitle: "I am a research scholar at IIT Madras."
           imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
+          imageWidth: 200
+          imageHeight: 200
           buttons:
             - name: Papers
               url: papers/
@@ -75,9 +75,9 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: resume_sayan.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
+          url: sayangh.phys@gmail.com
         - name: Zoom
           url: https://www.zoom.us/my/igelfeld
         - name: Location
@@ -85,7 +85,7 @@ params:
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?hl=en&user=4N7t3u0AAAAJ
         - name: GitHub
           url: https://github.com/pmichaillat
         - name: Substack
